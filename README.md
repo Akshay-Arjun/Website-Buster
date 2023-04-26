@@ -17,6 +17,7 @@ GUI Website scanner similar to dir-buster using python.
 
 # Future Updates
 - Improve the threading implementation to start requests as soon as a suffix is read from the file.
+- Add option to check different HTTP Request Methods (e.g., GET, POST).
 - Add options for customizing the scan parameters (e.g., timeout, user-agent).
 - Add a feature for exporting the scan results to a file.
 - Add support for scanning multiple websites at once.
